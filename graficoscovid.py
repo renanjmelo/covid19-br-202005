@@ -65,7 +65,7 @@ estatistica_maio=pd.concat([estatistica_maio,covid19])
 
 #Desenhando o gráfico
 f,ax = plt.subplots(figsize=(6,8))
-f.suptitle('COVID: comparação dos óbitos em Maio de 2008 a 2018',fontsize=16,weight='bold',x=0.35,y=0.93)
+f.suptitle('COVID: comparação com os óbitos de Maio entre 2008 e 2018',fontsize=16,weight='bold',x=0.35,y=0.93)
 # ax.set_xscale('log')
 sns.set_context('paper')
 sns.set_style('whitegrid')
