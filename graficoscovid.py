@@ -71,7 +71,7 @@ sns.set_context('paper')
 sns.set_style('whitegrid')
 ax = sns.boxplot(y='categorias',x='Maio',data=estatistica_maio, linewidth=2)
 ax.set_xlabel('')
-ax.set_ylabel('Doenças (rótulo simplificado)')
+ax.set_ylabel('Classificação (rótulo simplificado)')
 # ax.set_title('Brasil: mortes em Maio segundo DATASUS (2008-2018)',weight='bold',size='x-large')
 
 
