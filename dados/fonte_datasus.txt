@@ -1,0 +1,17 @@
+============================= Português =============================================
+Fonte dos dados: DATASUS
+Data: 2020-jun-19
+URL: http://svs.aids.gov.br/dantps/centrais-de-conteudos/paineis-de-monitoramento/mortalidade/cid10/
+Codificação: UTF-8
+Separador de coluna: ; (ponto-e-vírgula)
+Separador decimal: , (vírgula)
+Idioma: Português-BR
+
+============================= English   =============================================
+Data source: DATASUS
+Date: 2020-jun-19
+URL: http://svs.aids.gov.br/dantps/centrais-de-conteudos/paineis-de-monitoramento/mortalidade/cid10/
+Encoding: UTF-8
+Column separator: ; (semi-colon)
+Decimal separator: , (colon)
+Language: Pt-BR
